@@ -1,14 +1,14 @@
 {
-  "name": "fast-and-slow",
+  "name": "glgh",
   "owner": {
     "name": "glgh"
   },
   "metadata": {
-    "description": "Speed commands to steer Claude's carefulness level"
+    "description": "glgh's personal Claude Code plugins"
   },
   "plugins": [
     {
-      "name": "speed-commands",
+      "name": "fast-and-slow",
       "source": "./",
       "description": "Commands to control Claude's speed/carefulness: /fast, /slow, /reset"
     }

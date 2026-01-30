@@ -1,8 +1,18 @@
 ## How to install
 
+In Claude Code, run:
+
 ```
-claude /plugin marketplace add glgh/claude-fast-and-slow-plugin && claude /plugin install speed-commands@fast-and-slow
+/plugin marketplace add glgh/claude-fast-and-slow-plugin
 ```
+
+Then run:
+
+```
+/plugin install fast-and-slow@glgh
+```
+
+Then restart Claude Code to load the plugin.
 
 ## Commands 
 
