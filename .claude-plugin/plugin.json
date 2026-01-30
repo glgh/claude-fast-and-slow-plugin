@@ -1,0 +1,5 @@
+{
+  "name": "speed",
+  "description": "Switch between experimental (fast) and cautious (slow) modes",
+  "version": "1.0.0"
+}
