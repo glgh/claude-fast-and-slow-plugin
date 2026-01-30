@@ -9,7 +9,7 @@
   "plugins": [
     {
       "name": "speed-commands",
-      "source": ".",
+      "source": "./",
       "description": "Commands to control Claude's speed/carefulness: /fast, /slow, /reset"
     }
   ]

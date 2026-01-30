@@ -1,9 +1,7 @@
-Claude Code plugin to steer how careful Claude is. Fast for prototypes, slow for production.
-
-## Install
+## How to install
 
 ```
-/plugin marketplace add glgh/claude-fast-and-slow-plugin && /plugin install speed-commands@fast-and-slow
+claude /plugin marketplace add glgh/claude-fast-and-slow-plugin && claude /plugin install speed-commands@fast-and-slow
 ```
 
 ## Commands 
@@ -29,5 +27,4 @@ Claude Code plugin to steer how careful Claude is. Fast for prototypes, slow for
 - Consider edge cases and failure modes
 
 ### `/reset` — Default
-
-Return to baseline Claude behavior. A reasonable middle ground—thoughtful but not overly careful.
+- Return to baseline Claude behavior. A reasonable middle ground—thoughtful but not overly careful.
