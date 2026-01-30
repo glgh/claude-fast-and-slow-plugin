@@ -1,0 +1,16 @@
+{
+  "name": "fast-and-slow",
+  "owner": {
+    "name": "glgh"
+  },
+  "metadata": {
+    "description": "Speed commands to steer Claude's carefulness level"
+  },
+  "plugins": [
+    {
+      "name": "speed-commands",
+      "source": ".",
+      "description": "Commands to control Claude's speed/carefulness: /fast, /slow, /reset"
+    }
+  ]
+}
