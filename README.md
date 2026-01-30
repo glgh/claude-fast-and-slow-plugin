@@ -1,6 +1,10 @@
-# Speed Commands
-
 Claude Code plugin to steer how careful Claude is. Fast for prototypes, slow for production.
+
+## Install
+
+```
+/plugin marketplace add glgh/claude-fast-and-slow-plugin && /plugin install speed-commands@fast-and-slow
+```
 
 ## Commands 
 
